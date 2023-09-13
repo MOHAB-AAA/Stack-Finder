@@ -1,5 +1,6 @@
 # Stack-Finder
-JAVA
+JAVA 
+IDE netbeans
 Data Science Project
 the question was 
 
